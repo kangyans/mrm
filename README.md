@@ -9,6 +9,13 @@ Linux Command Line Interface (CLI) for looking up abstracts from Magnetic Resona
 chmod +x mrm.sh
 mv mrm.sh /usr/local/bin/mrm
 ```
+**OS**: MacOS
+
+```
+chmod +x mrm.sh
+mv mrm.sh ~/mrm
+```
+
 
 ## How to use
 
