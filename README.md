@@ -3,13 +3,14 @@ Linux Command Line Interface (CLI) for looking up abstracts from Magnetic Resona
 
 ## Installation
 
-**OS**: Linux
+For Linux users:
 
 ```
 chmod +x mrm.sh
 mv mrm.sh /usr/local/bin/mrm
 ```
-**OS**: MacOS
+
+For MacOS users:
 
 ```
 chmod +x mrm.sh
